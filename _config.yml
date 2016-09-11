@@ -81,7 +81,6 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - LICENSE
   - CernaSedma.sln
   - README.md
   - CNAME

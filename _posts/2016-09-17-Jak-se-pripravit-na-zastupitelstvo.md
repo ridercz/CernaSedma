@@ -26,7 +26,7 @@ Jediná šance je, že všechny ty soubory ručně otevřete a zjistíte, co je 
 
 Také si chvíli počkáte - přežvýkat ta data trvá mému počítači - což rozhodně není žádné ořezávátko - obvykle něco mezi čtvrt a půl hodinou. Výsledkem je třeba v případě sedmého zasedání soubor, mající 1166 stran (uznávám ovšem, že šlo o první jednání do prázdninách, takže bylo k projednání víc věcí než obvykle).
 
-![Program na místě](/files/2016-09-17-program.jpg)
+![Program na místě](/files/2016-09-17-program-scan.jpg)
 
 Když se dostavíte na místo samé, je k dispozici tištěná verze programu, ve které se konečně dozvíte, jaké evidenční číslo odpovídá jakému pořadovému číslu. Na úřadě sice neumějí nastavit šířku sloupců tabulky tak, aby se do ní vešlo čtyřciferné číslo, takže to není moc přehledné, ale aspoň něco. Program se sice ještě může měnit a pořadí bodů také, ale to už jsou drobnosti.
 

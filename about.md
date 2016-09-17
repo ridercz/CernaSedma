@@ -2,6 +2,7 @@
 layout: page
 title: O projektu
 permalink: /about/
+
 ---
 
 ## Proč vznikl tento web

@@ -18,6 +18,8 @@ Rozhodl jsem se tedy založit tento web, což má i tu výhodu, že zatímco př
 
 Autorem tohoto webu je [Michal Altair Valášek](http://www.rider.cz/). Nejsem a nikdy jsem nebyl v žádné politické funkci na Praze 7 ani jinde a nikdy jsem se ani o žádnou politickou funkci neucházel a ani to nemám v úmyslu. 
 
+![Altair a jakovlci; foto David Dirga](/images/altair_foto.jpg)
+
 Nejsem žádným způsobem spjat s minulým vedením MČ Praha 7 ani s politickými stranami, které zde vládly. Jsem řadovým členem [Strany svobodných občanů](http://www.svobodni.cz/), ale tento web jsem vytvořil a provozuji jej jako soukromá fyzická osoba, zcela nezávisle na ní.
 
 ## Kdo tento web platí

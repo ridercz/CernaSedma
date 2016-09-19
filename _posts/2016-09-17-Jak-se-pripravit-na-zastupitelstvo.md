@@ -38,6 +38,8 @@ Jednání může začít. Řídí se jednacím řádem, nalezení jehož aktuál
 
 > Jak by to bylo, kdyby radnice chtěla být skutečně otevřená a jenom si na to marketingově  nehrála?
 > 
-> * Pozvánka by byla zveřejněna nejenom na webu, ale všemi běžnými komunikačními kanály  radnice. Třeba místo reklamy spřátelených nátlakových sdružení. Zasedání zastupitelstva  je pro občany dost důležité. Byl by pravidelně udržován a aktualizován seznam jednání.
+> * Pozvánka by byla zveřejněna nejenom na webu, ale všemi běžnými komunikačními kanály  radnice. Třeba místo reklamy spřátelených nátlakových spolků. Zasedání zastupitelstva  je pro občany dost důležité na to, aby se vyplatilo ho propagovat.
+> * Byl by pravidelně udržován a aktualizován seznam jednání.
 > * V pozvánce by byl odkaz na získání návrhů usnesení, nyní musíte vědět, že je někde úplně  jinde.
 > * V seznamu návrhů by se všechny body nejmenovaly "-", ale měly by nějaký smysluplný název, případně by v předstihu existoval nějaký seznam které číslo odpovídá kterému bodu.
+> * V co nejkratší době po skončení jednání (nejpozději následující pracovní den) by byla na webu zveřejněna informace stručně a lidsky srozumitelně shrnující, o čem se jednalo a co bylo schváleno. Tatáž informace by vyšla v nejbližším vydání Hobuletu, například místo jednoho z mnoha článků "auta jsou špatná protože jsou špatná a kdo nejezdí na kole jako starosta je hajzlík".

@@ -21,6 +21,6 @@ Kandidátka spolku byla vytvořena podle principů všech malých stran a hnutí
 
 Za těchto okolností samozřejmě nemůže na zastupitelstvu probíhat žádná smysluplná diskuse. Není koho přesvědčovat argumenty, není třeba hledat kompromisy. Opozice a občané se nechají vyžvanit a když se dostatečně unaví, prohlasuje se všechno v původním znění silou.
 
-Poněkud depresivní pocit, že? Zvykejte si, Babišovi fašisté z ANO se tento styl chystají při nejbližší příležitosti zavést i na národní úrovni. Zatím se můžete psychicky připravit třeba v záznamech z [oficiálního kanálu MČ Praha 7](https://www.youtube.com/user/MCPraha7). Poslední řáddné zasedání [trvalo jenom čtyři a čtvrt hodiny](https://www.youtube.com/watch?v=aPjwzyQKI0Q). Příjemnou zábavu!
+Poněkud depresivní pocit, že? Zvykejte si, Babišovi fašisté z ANO se tento styl chystají při nejbližší příležitosti zavést i na národní úrovni. Zatím se můžete psychicky připravit třeba v záznamech z [oficiálního kanálu MČ Praha 7](https://www.youtube.com/user/MCPraha7). Poslední řádné zasedání [trvalo jenom čtyři a čtvrt hodiny](https://www.youtube.com/watch?v=aPjwzyQKI0Q). Příjemnou zábavu!
 
 **Příště se podíváme na to, jak se na takové jednání připravit a jak MČ Praha 7 informuje své občany o tom, co na ně chystá.**

@@ -9,9 +9,8 @@ Před sedmadvaceti lety komunistický fízl Zdeněk Ondráček mlátil demonstra
 
 ## Cena nebo ocenění?
 
-Vše začalo v srpnu, kdy vedení MČ Praha 7 pojalo úmysl rozdávat ceny, konkrétně [Cenu Prahy 7]:
+Vše začalo v srpnu, kdy vedení MČ Praha 7 pojalo úmysl rozdávat ceny, konkrétně [Cenu Prahy 7]:(http://www.praha7.cz/20544_Praha-7-oceni-zasluhy-svych-obcanu):
 
-(http://www.praha7.cz/20544_Praha-7-oceni-zasluhy-svych-obcanu): 
 ![Oznámení na webu MČ](/files/2016-11-17-ceny.png)
 
 Těžko říct, co je k tomu vedlo. Možná zatoužili po metálobraní podobnému těm, při nichž se [policejní šéfové dekorují navzájem a občas k tomu přiberou politiky](http://zpravy.idnes.cz/vyznamenani-medaile-tomas-tuhy-michal-hasek-fzt-/domaci.aspx?c=A161112_185109_domaci_ekl), ale nemají ty správné kontakty tak začínají rozdáváním.

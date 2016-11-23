@@ -7,7 +7,7 @@ permalink: /legal/
 
 ## Ochrana osobních údajů
 
-Tento web neshromažďuje osobní údaje čtenářů. Pro sledovvání a analýzu návštěvnosti používá službu Google Analytics.
+Tento web neshromažďuje osobní údaje čtenářů. Pro sledování a analýzu návštěvnosti používá službu Google Analytics.
 
 ## Autorská práva
 
